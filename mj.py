@@ -4,9 +4,9 @@ import time
 # --- Configuration ---
 SPRITE_SHEET_IMAGE = 'mj_sprite.png' # The name of your sprite sheet file
 NUM_FRAMES = 10                  # The total number of dance moves in the image
-FRAME_WIDTH = 48                 # The width of ONE dance move (you may need to adjust)
-FRAME_HEIGHT = 80                # The height of ONE dance move (you may need to adjust)
-ANIMATION_SPEED = 0.1            # Seconds between each frame (lower is faster)
+FRAME_WIDTH = 49                 # The width of ONE dance move (you may need to adjust)
+FRAME_HEIGHT = 70              # The height of ONE dance move (you may need to adjust)
+ANIMATION_SPEED = 0.2            # Seconds between each frame (lower is faster)
 
 # --- Screen Setup ---
 SCREEN_WIDTH = 800               # Width of the new large window
